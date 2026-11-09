@@ -1,6 +1,6 @@
 # Optiver Trading at the Close: Forecasting Closing Auction Price Moves
 
-**Timeline:** 2025, revised November 2026 (rebuilt with out-of-time validation)
+**Timeline:** 2025
 
 A LightGBM model that forecasts 60-second stock price moves during the Nasdaq closing auction, using order book and auction data from Kaggle's *Optiver Trading at the Close* competition (about 200 stocks over 481 trading days, 5.2 million rows). Completed independently after the competition closed.
 
