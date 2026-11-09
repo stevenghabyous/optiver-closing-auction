@@ -2,6 +2,8 @@
 
 **Timeline:** 2025
 
+Part of my [portfolio](https://stevenghabyous.github.io/#optiver).
+
 A LightGBM model that forecasts 60-second stock price moves during the Nasdaq closing auction, using order book and auction data from Kaggle's *Optiver Trading at the Close* competition (about 200 stocks over 481 trading days, 5.2 million rows). Completed independently after the competition closed.
 
 ## Highlights
@@ -39,3 +41,7 @@ The easiest way is on Kaggle: create a notebook in the [Optiver Trading at the C
 ## Tools
 
 Python, pandas, NumPy, LightGBM, scikit-learn, Matplotlib
+
+---
+
+**Steven Ghabyous** | [Portfolio](https://stevenghabyous.github.io) | [GitHub](https://github.com/stevenghabyous) | [LinkedIn](https://linkedin.com/in/steven-ghabyous) | [Email](mailto:steven.ghabyous2005@gmail.com)
